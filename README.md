@@ -1,2 +1,1 @@
-Analyzes 1.6 million real-world Norwegian commercial fishing records (2002–2019) to optimize fleet composition, trawling locations, and strategy.
-Cleans and engineers vessel, catch, ocean, and climate data to identify profit-maximizing specifications.
+Developed a data-driven energy-storage arbitrage and investment analysis using real-time grid-wide ERCOT pricing and load data. Cleaned and engineered time-series datasets, modeled price dispersion and intraday arbitrage opportunities, and visualized revenue potential under realistic operating constraints.
